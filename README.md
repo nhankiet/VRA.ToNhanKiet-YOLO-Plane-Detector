@@ -15,7 +15,8 @@ Training data, about 100 images
 Labelling data
 ![](VRA.Final.ToNhanKiet/JetFig-DemoImg/img5.png)
 
-
 Demo video [link](https://drive.google.com/file/d/1eLWlU-KDK-2B5uX-gzwOGa3NyX2pu7A0/view?usp=sharing) (skip to 6:43 to see it in action).
 
 Final project of the Visual Recognition Extra Class in 2017, full marks received.
+
+Most of the other files/folders are artefacts in MatLab, for Assignment.
